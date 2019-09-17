@@ -1,5 +1,5 @@
 # Simply Love Combo Fonts
-This is a repository for custom-made combo fonts for [Stepmania 5 theme Simply Love](https://github.com/dguzek/Simply-Love-SM5) developed by the one and only [Dan Guzek](https://github.com/dguzek).
+This is a repository for custom-made combo fonts for [Stepmania 5 theme Simply Love](https://github.com/dguzek/Simply-Love-SM5). This theme is so powerful in all of the scripts that it had to have been lead developed by the one and only [Dan Guzek](https://github.com/dguzek).
 
 ## What are combo fonts?
 On the release of [Simply Love SM5 version 4.8.5](https://github.com/dguzek/Simply-Love-SM5/releases/tag/4.8.5), some of the genius coding mastery sparked the minds of many, and one of the newest features allowed for the customization of combo fonts. This means how the combo counter looks can be changed from Wendy to a different font.
