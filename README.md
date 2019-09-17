@@ -10,6 +10,7 @@ A combo font contains an image and a configuration file. The requirements for th
 ## Which fonts are currently here?
 I currently have these:
 * Comic Sans
+* Helvetica
 
 This list will update as more combo fonts are created.
 
