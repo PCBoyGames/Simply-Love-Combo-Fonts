@@ -17,3 +17,7 @@ This list will update as more combo fonts are created.
 In the fonts folder of Simply Love, there is a folder called "_Combo Fonts" which contains folders with names of fonts. In these folders, two files are seen. One of them is the map image, and the other is the map configuration. Likewise in this repository, folders contain these two files.
 
 To install a combo font, download both files into a new folder in "*themefolder*/Fonts/_Combo Fonts" with the same name as the folder you downloaded them from here. For example, if you downloaded Comic Sans, the folder cascade should look like "*themefolder*/Fonts/_Combo Fonts/Comic Sans" and this folder should have two files named "Comic Sans 15x15.png" and "Comic Sans.ini" for the image and configuration respectively.
+
+
+## Can I send in my own?
+Please do! If you want to make a combo font for this repository, ensure that additional scripting (such as LUA in a seperate file) is not required, and let me know through a pull request. I will make changes if needed to ensure everything works out.
