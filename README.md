@@ -11,6 +11,9 @@ A combo font contains an image and a configuration file. The requirements for th
 I currently have these:
 * Comic Sans (PCBoyGames)
 * Helvetica (PCBoyGames)
+* Wingdings (PCBoyGames)
+* Wingdings 2 (PCBoyGames)
+* Wingdings 3 (PCBoyGames)
 
 This list will update as more combo fonts are created.
 
