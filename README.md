@@ -10,14 +10,26 @@ A combo font contains an image and a configuration file. The requirements for th
 ## Which fonts are currently here, and who made them possible?
 I currently have these:
 * Comic Sans (PCBoyGames)
+* FixedSys (PCBoyGames)
+* Gill Sans (PCBoyGames)
+* Gill Sans Ultra Bold (PCBoyGames)
 * Helvetica (PCBoyGames)
+* Impact (PCBoyGames)
+* Kozuka Gothic (PCBoyGames)
+* Kozuka Mincho (PCBoyGames)
+* LD Elementary (PCBoyGames)
+* LD Trainer (PCBoyGames)
+* Rockwell (PCBoyGames)
+* TW Cen MT (PCBoyGames)
+* Times New Roman (PCBoyGames)
 * Wingdings (PCBoyGames)
 * Wingdings 2 (PCBoyGames)
 * Wingdings 3 (PCBoyGames)
+* ZB Manuscript (PCBoyGames)
 
 This list will update as more combo fonts are created.
 
-The names in parentheses state the alias of the user who implemented them as a Simply Love combo font. If you send a pull without changing this part of the README, I will add it here with your GitHub alias, and if it is not the same your Stepmania/ITG player/themer/modder/memer/whatever you do with the game alias, I will replace this after you ask me to.
+The names in parentheses state the alias of the user who implemented it as a Simply Love combo font. If you send a pull without changing this part of the README, I will add it here with your GitHub alias, and if it is not the same your Stepmania/ITG player/themer/modder/memer/whatever you do with the game alias, I will replace this after you ask me to.
 
 ## How do I install a combo font?
 In the fonts folder of Simply Love, there is a folder called "_Combo Fonts" which contains folders with names of fonts. In these folders, two files are seen. One of them is the map image, and the other is the map configuration. Likewise in this repository, folders contain these two files.
@@ -26,4 +38,4 @@ To install a combo font, download both files into a new folder in "*themefolder*
 
 
 ## Can I send in my own?
-Please do! If you want to make a combo font for this repository, ensure that additional scripting (such as LUA in a seperate file) is not required, and let me know through a pull request. I will make changes if needed to ensure everything works out. As mentioned earlier, I would ideal adding the font name to the list with your Stepmania/ITG alias appended in parentheses. Also remember, I will revert the README if you troll it in your fork.
+Please do! If you want to make a combo font for this repository, ensure that additional scripting (such as LUA in a seperate file) is not required, and let me know through a pull request. I will make changes if needed to ensure everything works out. As mentioned earlier, I would ideal adding the font name to the list with your Stepmania/ITG alias appended in parentheses. Also remember, I will revert the README if you troll it in your fork. Please also look at the contributing rules.
