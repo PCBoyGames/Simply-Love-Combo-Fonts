@@ -42,4 +42,4 @@ Please do! If you want to make a combo font for this repository, ensure that add
 
 
 ## I am a font owner and I do not want my font in this list. What should I do?
-If you have a GitHub account, you can leave this as an issue. If not, don't worry. GitHub accounts are free to make.
+If you have a GitHub account, you can leave this as an issue. If not, don't worry. GitHub accounts are free to make. However, in such case you do not want to make an account, send an email to simply-love-combo-fonts@gmail.com and let me know which font to remove and I will.
