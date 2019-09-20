@@ -23,8 +23,6 @@ I currently have these:
 * TW Cen MT (PCBoyGames)
 * Times New Roman (PCBoyGames)
 * Wingdings (PCBoyGames)
-* Wingdings 2 (PCBoyGames)
-* Wingdings 3 (PCBoyGames)
 * ZB Manuscript (PCBoyGames)
 
 This list will update as more combo fonts are created.
