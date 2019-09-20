@@ -9,6 +9,7 @@ A combo font contains an image and a configuration file. The requirements for th
 
 ## Which fonts are currently here, and who made them possible?
 I currently have these:
+* Burbank (PCBoyGames)
 * Comic Sans (PCBoyGames)
 * FixedSys (PCBoyGames)
 * Gill Sans (PCBoyGames)
