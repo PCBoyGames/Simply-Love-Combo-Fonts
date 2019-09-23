@@ -7,19 +7,30 @@ On the release of [Simply Love SM5 version 4.8.5](https://github.com/dguzek/Simp
 ## What is in a combo font?
 A combo font contains an image and a configuration file. The requirements for the image are 1234567890()/. However, if you don't need a measure counter, all it takes is 1234567890. This came to be a basis for [my tutorial](https://www.youtube.com/watch?v=0EcDscIRPzM) (which now that I think about it I need to redo) for players who don't use the measure counter. For the measure counter, the main map (instead of the numbers map) would be used, and the append would be 15x15 instead of 4x4. This is because the numbers map does not include ()/ while main does.
 
-## Which fonts are currently here, and who made them possible?
+## Which fonts are currently here, and who made implementation possible?
 I currently have these:
+* Blank (PCBoyGames)
 * Burbank (PCBoyGames)
 * Comic Sans (PCBoyGames)
+* Evensong Hollow (PCBoyGames)
+* Expansiva (PCBoyGames)
 * FixedSys (PCBoyGames)
 * Gill Sans (PCBoyGames)
 * Gill Sans Ultra Bold (PCBoyGames)
+* Heartisan (PCBoyGames)
 * Helvetica (PCBoyGames)
 * Impact (PCBoyGames)
 * Kozuka Gothic (PCBoyGames)
 * Kozuka Mincho (PCBoyGames)
+* La Oriental (PCBoyGames)
 * LD Elementary (PCBoyGames)
 * LD Trainer (PCBoyGames)
+* Misuse (PCBoyGames)
+* Mobile Sans (PCBoyGames)
+* NK57 Monospace (PCBoyGames)
+* Notype (PCBoyGames)
+* Polentical Neon (PCBoyGames)
+* Recharge (PCBoyGames)
 * Rockwell (PCBoyGames)
 * TW Cen MT (PCBoyGames)
 * Times New Roman (PCBoyGames)
