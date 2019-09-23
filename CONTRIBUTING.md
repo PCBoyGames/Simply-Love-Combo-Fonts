@@ -23,6 +23,6 @@ If the font uses the number map instead of the main or does not include ()/ in i
 
 >To *(username)*,
 >
->Thank you for your contribution to the Simply Love combo font repository. I would have liked to put your combo font in the list. However, your font has only 1234567890, and would not work with the measure counter in such a way it works perfectly with other combo fonts I have made and those in Simply Love by default. If you use the main map instead, which includes ()/ whereas the numbers map does not, I will add it to the list. Should you see the need fit for such, please fix this and let me know, and I will reconsider.
+>Thank you for your contribution to the Simply Love combo font repository. I would have liked to put your combo font in the list. However, your font has only 1234567890, and would not work with the measure counter in such a way it works perfectly with other combo fonts I have made and those in Simply Love by default. I understand some fonts do not have ()/, but if yours does, send me the main map, which includes ()/, I will add it to the list. Should you see the need fit for such, please fix this and let me know, and I will reconsider.
 >
 >-PCBoyGames
