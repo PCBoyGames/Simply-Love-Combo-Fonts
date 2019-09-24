@@ -1,7 +1,7 @@
 ---
-name: Font Problem
+name: Visual Problem
 about: If you are have visual issues with a font, use this issue format.
-title: ''
+title: '[VISUAL]'
 labels: 
 assignees: ''
 
