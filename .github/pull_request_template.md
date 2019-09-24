@@ -12,4 +12,4 @@
 
 
 
-### Do you accept that if any of the original font's creators or related associates have a legal problem with your supplied font being used in this repository, such as copyright, and they request it be removed that it will?
+### Do you accept that if any of the original font's creators or related associates have a legal problem with (any of) your supplied font(s) being used in this repository, such as copyright, and they request it be removed that it will?
