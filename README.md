@@ -48,8 +48,8 @@ To install a combo font, download both files into a new folder in "*themefolder*
 
 
 ## Can I send in my own?
-Please do! If you want to make a combo font for this repository, ensure that additional scripting (such as LUA in a seperate file) is not required, and let me know through a pull request. I will make changes if needed to ensure everything works out. As mentioned earlier, I would ideal adding the font name to the list with your Stepmania/ITG alias appended in parentheses. Also remember, I will revert the README if you troll it in your fork. Please also look at the contributing rules.
+Please do! If you want to make a combo font for this repository, ensure that additional scripting (such as LUA in a seperate file) is not required, and let me know through a pull request. *You must fill out the form for your combo font to be accepted in this repository.* I will make changes if needed according to the contributing rules to ensure everything works out. As mentioned earlier, I would ideal adding the font name to the list with your Stepmania/ITG alias appended in parentheses. Also remember, I will revert the README if you troll it in your fork.
 
 
 ## I am a font owner and I do not want my font in this list. What should I do?
-If you have a GitHub account, you can leave this as an issue. If not, don't worry. GitHub accounts are free to make. However, in such case you do not want to make an account, send an email to me at simplylovecombofonts(at)gmail.com and let me know which font to remove and I will.
+If you have a GitHub account, leave this as an issue. However, in such case you do not have and do not want to make an account, send an email to me at simplylovecombofonts(at)gmail.com and let me know which font to remove and I will. In a case where it is a contribution not by me, I will notify the contributor before I remove the font. These will be necessary actions so that neither any contributor nor I would face any large fees or fines over being sued. After all, I'm still in high school and jobless, as well as not an intern at any workplace, paid or unpaid.
