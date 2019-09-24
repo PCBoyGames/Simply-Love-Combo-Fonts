@@ -43,7 +43,7 @@ I currently have these:
 
 This list will update as more combo fonts are created.
 
-The names in parentheses state the alias of the user who implemented it as a Simply Love combo font. If you send a pull without changing this part of the README, I will add it here with your GitHub alias, and if it is not the same your Stepmania/ITG player/themer/modder/memer/whatever you do with the game alias, I will replace this after you ask me to.
+The names in parentheses state the alias of the user who implemented it as a Simply Love combo font. If you send a pull without changing this part of the README, I will add it here with your GitHub alias, and if it is not the same as your Stepmania/ITG player/themer/modder/memer/whatever you do with the game alias, I will replace this after you ask me to.
 
 ## How do I install a combo font?
 In the fonts folder of Simply Love, there is a folder called "_Combo Fonts" which contains folders with names of fonts. In these folders, two files are seen. One of them is the map image, and the other is the map configuration. Likewise in this repository, folders contain these two files.
