@@ -1,7 +1,7 @@
 # Contributions
 Upon a contributed pull request, I (PCBoyGames) will verify that the font works as intended for both the combo and measure counters.
 ## Corrections
-If it is vertically misaligned, I will correct it. If the name(s) of the image and/or configuration file do not match the folder, I will correct it.
+If it is vertically misaligned, I will correct it. If the kerning looks a bit off, I will correct it. If the name(s) of the image and/or configuration file do not match the folder, I will correct it.
 
 However, if the font is too big or too small, and I do not have a working copy of the font or cannot install it for free, I will send it back to you with this comment:
 
