@@ -12,7 +12,7 @@ I currently have these:
 * Blank (PCBoyGames)
 * Burbank (PCBoyGames)
 * Comic Sans (PCBoyGames)
-* Emoji (PCBoyGames) 👌💯🔥
+* Emoji (PCBoyGames) 💯🔥
 * Eurostile (PCBoyGames)
 * Evensong Hollow (PCBoyGames)
 * Expansiva (PCBoyGames)
