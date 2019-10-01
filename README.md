@@ -31,6 +31,7 @@ I currently have these:
 * Mobile Sans (PCBoyGames)
 * NK57 Monospace (PCBoyGames)
 * Notype (PCBoyGames)
+* Papyrus (PCBoyGames)
 * Phatboy Slim (PCBoyGames)
 * Polentical Neon (PCBoyGames)
 * Pusab (PCBoyGames)
