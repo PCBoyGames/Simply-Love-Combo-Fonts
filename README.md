@@ -8,9 +8,21 @@ On the release of [Simply Love SM5 version 4.8.5](https://github.com/dguzek/Simp
 A combo font contains an image and a configuration file. The requirements for the image are 1234567890()/. However, if you don't need a measure counter, all it takes is 1234567890. This came to be a basis for [my tutorial](https://www.youtube.com/watch?v=0EcDscIRPzM) (which now that I think about it I need to redo) for players who don't use the measure counter. For the measure counter, the main map (instead of the numbers map) would be used, and the append would be 15x15 instead of 4x4. This is because the numbers map does not include ()/ while main does.
 
 ## Which fonts are currently here, and who made implementation possible?
+
+This list will update as more combo fonts are created.
+
+The names in parentheses state the alias of the user who implemented it as a Simply Love combo font. If you send a pull without changing this part of the README, I will add it here with your GitHub alias, and if it is not the same as your Stepmania/ITG player/themer/modder/memer/whatever you do with the game alias, I will replace this after you ask me to.
+
+*Note to self: put this list somewhere else later.*
+
 I currently have these:
+* 5Muta Sans (PCBoyGames)
+* A Friend In Deed (PCBoyGames)
+* Aero Matics (PCBoyGames)
+* Arvin (PCBoyGames)
 * Blank (PCBoyGames)
 * Burbank (PCBoyGames)
+* Circles And Sticks (PCBoyGames)
 * Comic Sans (PCBoyGames)
 * Emoji (PCBoyGames) 💯🔥
 * Eurostile (PCBoyGames)
@@ -19,6 +31,7 @@ I currently have these:
 * FixedSys (PCBoyGames)
 * Gill Sans (PCBoyGames)
 * Gill Sans Ultra Bold (PCBoyGames)
+* Halfvetica (PCBoyGames)
 * Heartisan (PCBoyGames)
 * Helvetica (PCBoyGames)
 * Impact (PCBoyGames)
@@ -42,10 +55,6 @@ I currently have these:
 * Waltograph (PCBoyGames)
 * Wingdings (PCBoyGames)
 * ZB Manuscript (PCBoyGames)
-
-This list will update as more combo fonts are created.
-
-The names in parentheses state the alias of the user who implemented it as a Simply Love combo font. If you send a pull without changing this part of the README, I will add it here with your GitHub alias, and if it is not the same as your Stepmania/ITG player/themer/modder/memer/whatever you do with the game alias, I will replace this after you ask me to.
 
 ## How do I install a combo font?
 In the fonts folder of Simply Love, there is a folder called "_Combo Fonts" which contains folders with names of fonts. In these folders, two files are seen. One of them is the map image, and the other is the map configuration. Likewise in this repository, folders contain these two files.
