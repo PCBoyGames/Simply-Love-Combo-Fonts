@@ -14,6 +14,7 @@ This list will update as more combo fonts are created.
 The names in parentheses state the alias of the user who implemented it as a Simply Love combo font. If you send a pull without changing this part of the README, I will add it here with your GitHub alias, and if it is not the same as your Stepmania/ITG player/themer/modder/memer/whatever you do with the game alias, I will replace this after you ask me to.
 
 *Note to self: put this list somewhere else later.*
+*Other note to self: if the list becomes too big, which I feel could happen soon, sort into folders by letter/number.*
 
 I currently have these:
 * 5Muta Sans (PCBoyGames)
