@@ -1,17 +1,17 @@
 # Simply Love Combo Fonts
-This is a repository for custom-made combo fonts for [Stepmania 5 theme Simply Love](https://github.com/dguzek/Simply-Love-SM5). This theme is so powerful in all of the scripts that it had to have been lead developed by the one and only [Dan Guzek](https://github.com/dguzek).
+This is a repository for custom-made combo fonts for [Stepmania 5 theme Simply Love](https://github.com/dguzek/Simply-Love-SM5). The theme is so powerful in all scripts that it had to have been lead developed by the one and only [Dan Guzek](https://github.com/dguzek).
 
 ## What are combo fonts?
-On the release of [Simply Love SM5 version 4.8.5](https://github.com/dguzek/Simply-Love-SM5/releases/tag/4.8.5), some of the genius coding mastery sparked the minds of many, and one of the newest features allowed for the customization of combo fonts. This means how the combo counter looks can be changed from Wendy to a different font.
+On the release of [Simply Love SM5 version 4.8.5](https://github.com/dguzek/Simply-Love-SM5/releases/tag/4.8.5), some of the genius coding mastery sparked the minds of many, and one of the newest features allowed for the customization of combo fonts. This means how the combo counter looks can be changed from Wendy (what it was forced to in 4.8.4 and below) to a different font.
 
 ## What is in a combo font?
-A combo font contains an image and a configuration file. The requirements for the image are 1234567890()/. However, if you don't need a measure counter, all it takes is 1234567890. This came to be a basis for [my tutorial](https://www.youtube.com/watch?v=0EcDscIRPzM) (which now that I think about it I need to redo) for players who don't use the measure counter. For the measure counter, the main map (instead of the numbers map) would be used, and the append would be 15x15 instead of 4x4. This is because the numbers map does not include ()/ while main does.
+A combo font contains an image and a configuration file. I'm not sure if other features call the font, but as it seems, the requirements for the image are 1234567890()/, the last three characters being used in the measure counter. However, if you don't need a measure counter, all it takes is 1234567890. This came to be a basis for [my tutorial](https://www.youtube.com/watch?v=0EcDscIRPzM) (which now that I think about it I need to redo) for players who don't use the measure counter. For the measure counter, the main map (instead of the numbers map) would be used, and the append would be 15x15 instead of 4x4. This is because the numbers map does not include ()/ while main does.
 
 ## Which fonts are currently here, and who made implementation possible?
 
 This list will update as more combo fonts are created.
 
-The names in parentheses state the alias of the user who implemented it as a Simply Love combo font. If you send a pull without changing this part of the README, I will add it here with your GitHub alias, and if it is not the same as your Stepmania/ITG player/themer/modder/memer/whatever you do with the game alias, I will replace this after you ask me to.
+The names in parentheses state the alias of the user who implemented it as a Simply Love combo font. If you send a pull without changing this part of the README, I will add it here with your GitHub alias, and if it is not the same as your Stepmania/ITG player/themer/modder/memer/whatever you do with the game alias, I will replace this after you ask me to. If you troll this README, I will revert it, but add the fonts to the list as needed if they are fit to add.
 
 *Note to self: put this list somewhere else later.*
 *Other note to self: if the list becomes too big, which I feel could happen soon, sort into folders by letter/number.*
@@ -64,7 +64,7 @@ To install a combo font, download both files into a new folder in "*themefolder*
 
 
 ## Can I send in my own?
-Please do! If you want to make a combo font for this repository, ensure that additional scripting (such as LUA in a seperate file) is not required, and let me know through a pull request. ***You must fill out the form for your combo font to be accepted in this repository.*** Please make sure that your font uses the main map and contains no blank spaces, watermark characters, or [tofu](https://curiosity.com/topics/a-missing-letters-blank-box-is-called-tofu-curiosity/) for needed characters. I will make changes if needed according to the contributing rules to ensure everything works out. As mentioned earlier, I would ideal adding the font name to the list (I might change where this is) with your Stepmania/ITG alias appended in parentheses. Also remember, I will revert the README if you troll it in your fork.
+Please do! If you want to make a combo font for this repository, ensure that additional scripting (such as LUA in a seperate file) is not required, and let me know through a pull request. ***You must fill out the form for your combo font to be accepted in this repository.*** Please make sure that your font uses the main map and contains no watermarks (such as a developer logo in place of a slash), blank spaces (such as all numbers but no sign of the slash, which is left empty), [tofu](https://curiosity.com/topics/a-missing-letters-blank-box-is-called-tofu-curiosity/) (such as a blank box in place of a slash) or replacements (such as a letter A in place of a slash (yes, I've seen this sort of thing happen)) for needed characters. I will make changes if needed according to the contributing rules to ensure everything works out. As mentioned earlier, I would ideal adding the font name to the list (I might change where this is) with your Stepmania/ITG alias appended in parentheses. Again, please remember, I will revert the README if you troll it in your fork.
 
 
 ## I am a font owner and I do not want my font in this list. What should I do?
