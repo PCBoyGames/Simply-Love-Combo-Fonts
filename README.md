@@ -1,6 +1,8 @@
 # Simply Love Combo Fonts
 This is a repository for custom-made combo fonts for [Stepmania 5 theme Simply Love](https://github.com/dguzek/Simply-Love-SM5). The theme is so powerful in all scripts that it had to have been lead developed by the one and only [Dan Guzek](https://github.com/dguzek).
 
+Below I answer some of the important questions that you may have about this whole project.
+
 ## What are combo fonts?
 On the release of [Simply Love SM5 version 4.8.5](https://github.com/dguzek/Simply-Love-SM5/releases/tag/4.8.5), some of the genius coding mastery sparked the minds of many, and one of the newest features allowed for the customization of combo fonts. This means how the combo counter looks can be changed from Wendy (what it was forced to in 4.8.4 and below) to a different font.
 
@@ -62,6 +64,8 @@ In the fonts folder of Simply Love, there is a folder called "_Combo Fonts" whic
 
 To install a combo font, download both files into a new folder in "*themefolder*/Fonts/_Combo Fonts" with the same name as the folder you downloaded them from here. For example, if you downloaded Comic Sans, the folder cascade should look like "*themefolder*/Fonts/_Combo Fonts/Comic Sans" and this folder should have two files named "Comic Sans 15x15.png" and "Comic Sans.ini" for the image and configuration respectively.
 
+## Can I request a font?
+Have at it! I'll see if it has what it needs to be here (see **What is in a combo font?** for more details) and if so, I'll definitely make it for you. Contact me at simplylovecombofonts(at)gmail.com with a link to the font or a font name. If I have multiple fonts that fit or may fit a name, I will reply with links to the font possibilities, but when you find a font link before I do, I'd be glad to see it.
 
 ## Can I send in my own?
 Please do! If you want to make a combo font for this repository, ensure that additional scripting (such as LUA in a seperate file) is not required, and let me know through a pull request. ***You must fill out the form for your combo font to be accepted in this repository.*** Please make sure that your font uses the main map and contains no watermarks (such as a developer logo in place of a slash), blank spaces (such as all numbers but no sign of the slash, which is left empty), [tofu](https://curiosity.com/topics/a-missing-letters-blank-box-is-called-tofu-curiosity/) (such as a blank box in place of a slash) or replacements (such as a letter A in place of a slash (yes, I've seen this sort of thing happen)) for needed characters. I will make changes if needed according to the contributing rules to ensure everything works out. As mentioned earlier, I would ideal adding the font name to the list (I might change where this is) with your Stepmania/ITG alias appended in parentheses. Again, please remember, I will revert the README if you troll it in your fork.
