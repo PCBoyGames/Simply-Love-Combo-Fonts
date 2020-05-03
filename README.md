@@ -1,4 +1,4 @@
-This is a repository for custom-made combo fonts for [Stepmania 5 theme Simply Love](https://github.com/dguzek/Simply-Love-SM5). The theme is so powerful in all scripts that it had to have been lead developed by the one and only [Dan Guzek](https://github.com/dguzek).
+This is a repository for custom-made combo fonts for [Stepmania 5 theme Simply Love](https://github.com/quietly-turning/Simply-Love-SM5). The theme is so powerful in all scripts that it had to have been lead developed by the one and only [Dan Guzek](https://github.com/quietly-turning).
 
 # FAQ
 Below I answer some of the important questions that you may have about this whole project.
