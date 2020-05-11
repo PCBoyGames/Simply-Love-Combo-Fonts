@@ -11,7 +11,7 @@ A combo font contains an image and a configuration file. The requirements for th
 
 ## Which fonts are currently here, and who made implementation possible?
 
-This list has been moved.
+This list has been moved. Click [here](fontlist.md) to view it.
 
 ## How do I install a combo font?
 In the fonts folder of Simply Love, there is a folder called "_Combo Fonts" which contains folders with names of fonts. In these folders, two files are seen. One of them is the map image, and the other is the map configuration. Likewise in this repository, folders contain these two files.
