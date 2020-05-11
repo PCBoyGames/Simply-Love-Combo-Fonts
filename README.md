@@ -11,70 +11,7 @@ A combo font contains an image and a configuration file. The requirements for th
 
 ## Which fonts are currently here, and who made implementation possible?
 
-This list will update as more combo fonts are created.
-
-The names in parentheses state the alias of the user who implemented it as a Simply Love combo font. If you send a pull without changing this part of the README, I will add it here with your GitHub alias, and if it is not the same as your Stepmania/ITG player/themer/modder/memer/whatever you do with the game alias, I will replace this after you ask me to. If you troll this README, I will revert it, but add the fonts to the list as needed if they are fit to add.
-
-*Note to self: put this list somewhere else later.*
-*Other note to self: if the list becomes too big, which I feel could happen soon, sort into folders by letter/number.*
-
-I currently have these:
-* 5Muta Sans (PCBoyGames)
-* A Friend In Deed (PCBoyGames)
-* Accidental Presidency (PCBoyGames)
-* Aero Matics (PCBoyGames)
-* Airstrip One (PCBoyGames, request by Dangan2020)
-* Arvin (PCBoyGames)
-* Base 45 (PCBoyGames)
-* Bauhaus 93 (PCBoyGames)
-* Blank (PCBoyGames)
-* Burbank (PCBoyGames)
-* Circles And Sticks (PCBoyGames)
-* Comic Sans (PCBoyGames)
-* Emoji (PCBoyGames) 💯🔥
-* Eurostile (PCBoyGames)
-* Evensong Hollow (PCBoyGames)
-* Expansiva (PCBoyGames)
-* FixedSys (PCBoyGames)
-* Gill Sans (PCBoyGames)
-* Gill Sans Ultra Bold (PCBoyGames)
-* Halfvetica (PCBoyGames)
-* Heartisan (PCBoyGames)
-* Helvetica (PCBoyGames)
-* Hobo (PCBoyGames)
-* Impact (PCBoyGames)
-* Jokerman (PCBoyGames)
-* Kozuka Gothic (PCBoyGames)
-* Kozuka Mincho (PCBoyGames)
-* La Oriental (PCBoyGames)
-* LD Elementary (PCBoyGames)
-* LD Trainer (PCBoyGames)
-* Limelight (PCBoyGames)
-* Megrim (PCBoyGames)
-* Misuse (PCBoyGames)
-* Mobile Sans (PCBoyGames)
-* New Zelek (PCBoyGames, request by Dangan2020)
-* NK57 Monospace (PCBoyGames)
-* Notype (PCBoyGames)
-* Orbitron (PCBoyGames)
-* Papyrus (PCBoyGames)
-* Phatboy Slim (PCBoyGames)
-* Polentical Neon (PCBoyGames)
-* Pusab (PCBoyGames)
-* Recharge (PCBoyGames)
-* Rockwell (PCBoyGames)
-* Russo One (PCBoyGames)
-* Segoe Print/Script (PCBoyGames)
-* Segoe UI (PCBoyGames)
-* Slant (PCBoyGames, request by AppleArcade120)
-* Terminal (PCBoyGames)
-* TW Cen MT (PCBoyGames)
-* Times New Roman (PCBoyGames)
-* Ubuntu Mono (PCBoyGames)
-* Waltograph (PCBoyGames)
-* Wide Latin (PCBoyGames)
-* Wingdings (PCBoyGames)
-* ZB Manuscript (PCBoyGames)
+This list has been moved.
 
 ## How do I install a combo font?
 In the fonts folder of Simply Love, there is a folder called "_Combo Fonts" which contains folders with names of fonts. In these folders, two files are seen. One of them is the map image, and the other is the map configuration. Likewise in this repository, folders contain these two files.
