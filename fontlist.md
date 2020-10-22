@@ -24,6 +24,7 @@ I currently have these:
 * FixedSys (PCBoyGames)
 * Gill Sans (PCBoyGames)
 * Gill Sans Ultra Bold (PCBoyGames)
+* Hachicro (PCBoyGames, request by Hero Stars)
 * Halfvetica (PCBoyGames)
 * Heartisan (PCBoyGames)
 * Helvetica (PCBoyGames)
